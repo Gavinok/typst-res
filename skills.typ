@@ -1,5 +1,4 @@
 #import "layout.typ": skill_set
-#let skills = [
     #skill_set("Programming Languages")[
 	Java, C++, Python, TypeScript, Bash, Common Lisp, Clojure, and ClojureScript
     ]
@@ -36,4 +35,3 @@
 	Wireshark,
 	and GDB
     ]
-]

@@ -1,5 +1,4 @@
 #import "layout.typ": EXP, job
-#let experience = [
     #EXP("Quartech", "Victoria, BC", "Software Developer CO-OP", "May 2023-Present")
     #job("Develop Configuration API (Python)",
 	"https://github.com/hyperledger/aries-endorser-service")[
@@ -22,4 +21,3 @@
     #job( "Multiple Part SMS Support (Java)", "")[
 	Correct the support for multi-part SMS messages sent to a device.
     ]
-]
